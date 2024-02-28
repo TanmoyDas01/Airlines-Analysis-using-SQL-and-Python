@@ -20,10 +20,10 @@ The dataset comprises various tables such as aircrafts_data, airports_data, boar
 This README provides an overview of the project's objectives, methodologies, and key findings. For detailed analysis and code implementation, please refer to the project structure.
 
 ## Project Structure
-- 'queries.ipynb': The jupyter notebook containing all the analysis, starting from connecting to the database, reading the tables and querying insights along with visuals.
-- 'Report.pdf': A detailed yet easy report to have a comprehensive image of the project and business problem solved.
-- 'plots': This folder contains the visuals, which became so powerful in solving the use case.
-- 'README.md': You are here! Your go-to guide for navigating and understanding the project.
+- `queries.ipynb`: The jupyter notebook containing all the analysis, starting from connecting to the database, reading the tables and querying insights along with visuals.
+- `Report.pdf`: A detailed yet easy report to have a comprehensive image of the project and business problem solved.
+- `plots`: This folder contains the visuals, which became so powerful in solving the use case.
+- `README.md`: You are here! Your go-to guide for navigating and understanding the project.
 
 ## Contributions:
 Feel free to contribute your ideas by suggesting other approaches to solve the business problem.
